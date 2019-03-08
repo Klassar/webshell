@@ -1,4 +1,4 @@
 ﻿webshell
 ========
 
-A collection of webshells built in different languages.
+A collection of shells built in different languages.
